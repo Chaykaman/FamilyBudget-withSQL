@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Family_budget_ver5", "Family_budget_ver5\Family_budget_ver5.csproj", "{B264B9D3-D5A9-4D5B-9655-616E850334BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupFamily_budget", "SetupFamily_budget\SetupFamily_budget.vdproj", "{93806CD1-A8C3-4095-A327-54F1BEE0327A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B264B9D3-D5A9-4D5B-9655-616E850334BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B264B9D3-D5A9-4D5B-9655-616E850334BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B264B9D3-D5A9-4D5B-9655-616E850334BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B264B9D3-D5A9-4D5B-9655-616E850334BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93806CD1-A8C3-4095-A327-54F1BEE0327A}.Debug|Any CPU.ActiveCfg = Debug
+		{93806CD1-A8C3-4095-A327-54F1BEE0327A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD2FC55-96B7-4679-9EFF-18D254DF8DF8}
+	EndGlobalSection
+EndGlobal
